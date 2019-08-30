@@ -2,10 +2,14 @@
 	"name": "dynobot",
 	"version": "0.9.3",
 	"private": true,
+	"engines": {
+    		"node": "10.3.0"
+  	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Blackhawk-TA/dynoBot.git"
 	},
+	
 	"dependencies": {
 		"discord.js": "latest",
 		"mkdirp": "latest",
